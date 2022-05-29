@@ -1,0 +1,7 @@
+{
+  "name": "Mult-Up",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
